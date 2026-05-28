@@ -1,0 +1,33 @@
+FONTLOG for Te Ara fonts
+
+This file provides detailed information on the Te Ara
+Font Software.
+
+This information should be distributed along with the 
+Te Ara fonts and any derivative works.
+
+Basic Font Information
+Te Ara is a typeface extrapolated out from a logotype developed by the font author for the Te Ara o Mauao Gallery at Toi Ohomai's campus, here in Tauranga New Zealand..
+
+To contribute to the project contact Dale Sattler 
+at dale@noponies.com
+
+28 May 2026
+Github repository
+Uppercase, lowercase, symbols, basic spacing
+
+10 March 2026 (Dale Sattler)
+Original logotype development
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+
+N: Dale Sattler [Noponies]
+E: dale@noponies.com
+W: http://noponies.com || https://noponies.github.io/
+D: Original font designer
