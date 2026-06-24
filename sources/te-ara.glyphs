@@ -16,7 +16,9 @@ N,
 "ŋ",
 "гґ",
 "@",
-B
+B,
+"Ьь",
+"ы"
 );
 classes = (
 {
@@ -15940,7 +15942,7 @@ unicode = 1100;
 },
 {
 glyphname = "yeru-cy";
-lastChange = "2026-06-11 00:27:56 +0000";
+lastChange = "2026-06-16 22:17:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -15949,13 +15951,16 @@ shapes = (
 ref = "softsign-cy";
 },
 {
-pos = (587,0);
+alignment = -1;
+pos = (496,0);
 ref = idotless;
 }
 );
-width = 920;
+width = 829;
 }
 );
+metricLeft = n;
+metricRight = i;
 unicode = 1099;
 },
 {
